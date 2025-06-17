@@ -31,7 +31,6 @@ body {
   margin-right: 40px;
 }
 
-/* Keyframes for smooth scroll */
 @keyframes scroll {
   0% {
     transform: translateX(0);
